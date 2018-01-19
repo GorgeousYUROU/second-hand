@@ -1,0 +1,154 @@
+E:\C#\Work\Work\bin\Debug\Work.exe.config
+E:\C#\Work\Work\bin\Debug\Work.exe
+E:\C#\Work\Work\bin\Debug\Work.pdb
+E:\C#\Work\Work\obj\Debug\Work.csprojResolveAssemblyReference.cache
+E:\C#\Work\Work\obj\Debug\Work.ManiForm.resources
+E:\C#\Work\Work\obj\Debug\Work.Properties.Resources.resources
+E:\C#\Work\Work\obj\Debug\Work.csproj.GenerateResource.Cache
+E:\C#\Work\Work\obj\Debug\Work.exe
+E:\C#\Work\Work\obj\Debug\Work.pdb
+E:\C#\Work\Work\obj\Debug\Work.Forms.Login.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.MainLogin.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.Register.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.Search.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.Change_search.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.Person.resources
+E:\C#\Work\Work\obj\Debug\Work.Collect_card.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.Author_label.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.Book_card.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.change_card.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.sale_card.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.Add.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.SQL.UserControl1.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.SQL.Old.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.buy_card.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.SQL.Person.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.SQL.P.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.search_book.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.Change.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.SQL.Sa.resources
+E:\C#\Work\Work\obj\Debug\Work.Forms.SQL.Last.resources
+C:\Users\student\Desktop\Work - 副本\Work\bin\Debug\Work.exe.config
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.exe
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.pdb
+C:\Users\student\Desktop\Work - 副本\Work\bin\Debug\Work.exe
+C:\Users\student\Desktop\Work - 副本\Work\bin\Debug\Work.pdb
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Collect_card.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.Add.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.Author_label.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.Book_card.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.buy_card.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.Change.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.change_card.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.Change_search.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.Person.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.sale_card.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.Search.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.search_book.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Last.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Old.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.SQL.P.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Person.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Sa.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.SQL.UserControl1.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.ManiForm.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.Login.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.MainLogin.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Forms.Register.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.Properties.Resources.resources
+C:\Users\student\Desktop\Work - 副本\Work\obj\Debug\Work.csproj.GenerateResource.Cache
+G:\C#\Work - 副本\Work\bin\Debug\Work.exe.config
+G:\C#\Work - 副本\Work\obj\Debug\Work.exe
+G:\C#\Work - 副本\Work\obj\Debug\Work.pdb
+G:\C#\Work - 副本\Work\obj\Debug\Work.csprojResolveAssemblyReference.cache
+G:\C#\Work - 副本\Work\obj\Debug\Work.Collect_card.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Add.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Author_label.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Book_card.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.buy_card.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Change.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.change_card.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Change_search.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Person.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.sale_card.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Search.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.search_book.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Last.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Old.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.P.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Person.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Sa.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.UserControl1.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.ManiForm.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Login.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.MainLogin.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Register.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.Properties.Resources.resources
+G:\C#\Work - 副本\Work\obj\Debug\Work.csproj.GenerateResource.Cache
+G:\C#\Work - 副本\Work\bin\Debug\Work.exe
+G:\C#\Work - 副本\Work\bin\Debug\Work.pdb
+J:\C#\Work - 副本\Work\bin\Debug\Work.exe.config
+J:\C#\Work - 副本\Work\obj\Debug\Work.exe
+J:\C#\Work - 副本\Work\obj\Debug\Work.pdb
+J:\C#\Work - 副本\Work\obj\Debug\Work.csprojResolveAssemblyReference.cache
+J:\C#\Work - 副本\Work\obj\Debug\Work.Collect_card.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Add.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Author_label.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Book_card.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.buy_card.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Change.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.change_card.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Change_search.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Person.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.sale_card.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Search.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.search_book.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Last.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Old.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.P.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Person.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Sa.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.SQL.UserControl1.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.ManiForm.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Login.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.MainLogin.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Forms.Register.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.Properties.Resources.resources
+J:\C#\Work - 副本\Work\obj\Debug\Work.csproj.GenerateResource.Cache
+J:\C#\Work - 副本\Work\bin\Debug\Work.exe
+J:\C#\Work - 副本\Work\bin\Debug\Work.pdb
+E:\Work - 副本\Work\bin\Debug\Work.exe.config
+E:\Work - 副本\Work\obj\Debug\Work.exe
+E:\Work - 副本\Work\obj\Debug\Work.pdb
+E:\Work - 副本\Work\bin\Debug\Work.exe
+E:\Work - 副本\Work\bin\Debug\Work.pdb
+E:\Work - 副本\Work\obj\Debug\Work.csprojResolveAssemblyReference.cache
+E:\Work - 副本\Work\obj\Debug\Work.Collect_card.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Add.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Author_label.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Book_card.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.buy_card.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Change.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.change_card.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Change_search.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Person.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.sale_card.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Search.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.search_book.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Last.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Old.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.SQL.P.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Person.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.SQL.Sa.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.SQL.UserControl1.resources
+E:\Work - 副本\Work\obj\Debug\Work.ManiForm.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Login.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.MainLogin.resources
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Register.resources
+E:\Work - 副本\Work\obj\Debug\Work.Properties.Resources.resources
+E:\Work - 副本\Work\obj\Debug\Work.csproj.GenerateResource.Cache
+E:\Work - 副本\Work\obj\Debug\Work.Forms.Thanks.resources
+E:\201500800560夏雨柔\Work - 副本\Work\bin\Debug\Work.exe.config
+E:\201500800560夏雨柔\Work - 副本\Work\obj\Debug\Work.exe
+E:\201500800560夏雨柔\Work - 副本\Work\obj\Debug\Work.pdb

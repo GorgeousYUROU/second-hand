@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D339B36-DA49-4949-9C48-31AD122D6B93}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Work</RootNamespace>
+    <AssemblyName>Work</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Collect_card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Collect_card.Designer.cs">
+      <DependentUpon>Collect_card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Add.Designer.cs">
+      <DependentUpon>Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Book.Designer.cs">
+      <DependentUpon>Book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Book_card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Book_card.Designer.cs">
+      <DependentUpon>Book_card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\buy_card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\buy_card.Designer.cs">
+      <DependentUpon>buy_card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Change.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Change.Designer.cs">
+      <DependentUpon>Change.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\change_card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\change_card.Designer.cs">
+      <DependentUpon>change_card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Change_search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Change_search.Designer.cs">
+      <DependentUpon>Change_search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Person.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Person.Designer.cs">
+      <DependentUpon>Person.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\sale_card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\sale_card.Designer.cs">
+      <DependentUpon>sale_card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sale_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sale_Search.Designer.cs">
+      <DependentUpon>Sale_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\search_book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\search_book.Designer.cs">
+      <DependentUpon>search_book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SQL\Last.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\SQL\Last.Designer.cs">
+      <DependentUpon>Last.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SQL\Old.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\SQL\Old.Designer.cs">
+      <DependentUpon>Old.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SQL\P.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\SQL\P.Designer.cs">
+      <DependentUpon>P.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SQL\Person.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SQL\Person.Designer.cs">
+      <DependentUpon>Person.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SQL\Sa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\SQL\Sa.Designer.cs">
+      <DependentUpon>Sa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SQL\SqlConnection.cs" />
+    <Compile Include="Forms\SQL\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\SQL\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Thanks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Thanks.Designer.cs">
+      <DependentUpon>Thanks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainLogin.Designer.cs">
+      <DependentUpon>MainLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Collect_card.resx">
+      <DependentUpon>Collect_card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Add.resx">
+      <DependentUpon>Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Book.resx">
+      <DependentUpon>Book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Book_card.resx">
+      <DependentUpon>Book_card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\buy_card.resx">
+      <DependentUpon>buy_card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Change.resx">
+      <DependentUpon>Change.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\change_card.resx">
+      <DependentUpon>change_card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Change_search.resx">
+      <DependentUpon>Change_search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Person.resx">
+      <DependentUpon>Person.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\sale_card.resx">
+      <DependentUpon>sale_card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sale_Search.resx">
+      <DependentUpon>Sale_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\search_book.resx">
+      <DependentUpon>search_book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SQL\Last.resx">
+      <DependentUpon>Last.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SQL\Old.resx">
+      <DependentUpon>Old.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SQL\P.resx">
+      <DependentUpon>P.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SQL\Person.resx">
+      <DependentUpon>Person.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SQL\Sa.resx">
+      <DependentUpon>Sa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SQL\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Thanks.resx">
+      <DependentUpon>Thanks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainLogin.resx">
+      <DependentUpon>MainLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\元件 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\元件 2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
